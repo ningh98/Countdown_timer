@@ -1,7 +1,7 @@
 # Countdown_timer
 This is a 30-days javascript grinding  
 js30 [https://github.com/ningh98/js30]  
-28. Countdown_timer [https://github.com/ningh98/Countdown_timer]
+29. Countdown_timer [https://github.com/ningh98/Countdown_timer]
 
 ## Table of contents
 
